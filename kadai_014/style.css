@@ -7,9 +7,10 @@ body{
 }
 h1{
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 200%;
-  letter-spacing: 48px;
+  font-size: 2rem;
+  letter-spacing: 1.2rem;
   text-shadow: 2px 2px 2px black;
+  border-bottom:solid 3px rgb(115,115,114);
 }
 .skyblue{
   color:skyblue;
